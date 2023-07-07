@@ -1,0 +1,39 @@
+[
+    {
+      "precio": 150,
+      "id": 1,
+      "title": "Black Label",
+      "thumbnailUrl": "Blacklabel.png"
+    },
+    {
+      "precio": 230,
+      "id": 2,
+      "title": "Restinga Gin",
+      "thumbnailUrl": "ginrestinga.png"
+    },
+    {
+      "precio": 285,
+      "id": 3,
+      "title": "Red Label",
+      "thumbnailUrl": "redlabel.png"
+    },
+    {
+      "precio": 440,
+      "id": 4,
+      "title": "Restinga Inov",
+      "thumbnailUrl": "restinga.png"
+    },
+    {
+      "precio": 450,
+      "id": 5,
+      "title": "Blue Label",
+      "thumbnailUrl": "bluelabel.png"
+    },
+    {
+      "precio": 550,
+      "id": 6,
+      "title": "curso 6",
+      "thumbnailUrl": "jackdaniels.png"
+    }
+  ]
+  
